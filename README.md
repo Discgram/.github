@@ -1,2 +1,2 @@
 # .github
-A little more information about Discgram.
+A little more information about DiscGram.
